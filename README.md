@@ -2,6 +2,10 @@
 
 <!--
 **mirzasaputra/mirzasaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, Dafid Prasetyo here 👋
+
+
+![Mirza's github stats](https://github-readme-stats.vercel.app/api?username=mirzasaputra&show_icons=true&theme=default)
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaputra&layout=compact)
