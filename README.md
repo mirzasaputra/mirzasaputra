@@ -2,8 +2,6 @@
 
 <!--
 **mirzasaputra/mirzasaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there, Dafid Prasetyo here 👋
-
 
 ![Mirza's github stats](https://github-readme-stats.vercel.app/api?username=mirzasaputra&show_icons=true&theme=default)
 
