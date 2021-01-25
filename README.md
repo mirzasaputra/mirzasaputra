@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Mirza's github stats](https://github-readme-stats.vercel.app/api?username=mirzasaputra&show_icons=true&theme=light)
+![Mirza's github stats](https://github-readme-stats.vercel.app/api?username=mirzasaputra&show_icons=true&theme=dark)
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaputra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirzasaputra&layout=compact&theme=dark)
